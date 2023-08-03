@@ -1,0 +1,20 @@
+{
+  "name": "stagwell-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  },
+  "scripts": {
+    "test": "jest --watchAll",
+    "exercise_1": "node ./src/exercises/exercise_1",
+    "exercise_2": "node ./src/exercises/exercise_2",
+    "exercise_3": "node ./src/exercises/exercise_3",
+    "exercise_4": "node ./src/exercises/exercise_4",
+    "exercise_5": "node ./src/exercises/exercise_5",
+    "exercise_6": "node ./src/exercises/exercise_6",
+    "exercise_7": "node ./src/exercises/exercise_7",
+    "exercise_8": "node ./src/exercises/exercise_8"
+  }
+}
